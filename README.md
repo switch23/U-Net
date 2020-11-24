@@ -29,5 +29,5 @@ qsub epi.sh
 を実行する
 
 ## 結果
-![AccuracyとLossの変化](https://github.com/switch23/U-Net/result/accuracy_loss.pdf)
-![セグメンテーション結果](https://github.com/switch23/U-Net/result/segmentation_image.pdf)
+![AccuracyとLossの変化](https://github.com/switch23/U-Net/blob/main/result/accuracy_loss.pdf)
+![セグメンテーション結果](https://github.com/switch23/U-Net/blob/main/result/segmentation_image.pdf)
